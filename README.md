@@ -24,5 +24,10 @@ If you have any suggestions or feedback, please feel free to reach out to me.
 I have made a prototype of this project to show its working in real time with accuracy feel free to check its working 
          http://youtu.be/2aaqnv3BGb4
 
+The system has wide range of applications
+                -Smart Air Conditioning with Safety sensors
+                -Iot based whether forcasting system
+                -pollution detection system on cars  etc.
+These can be applied using SensorSoft by modifying with the requirement of the application.
 
 Thank you for your interest in the Coalmine Safety Monitoring and Alerting System project on GitHub.
